@@ -3,8 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RxMPP.iml" filepath="$PROJECT_DIR$/.idea/modules/RxMPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RxMPP.iml" filepath="$PROJECT_DIR$/.idea/modules/RxMPP.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RxMPP_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RxMPP_main.iml" group="RxMPP" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RxMPP_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RxMPP_test.iml" group="RxMPP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxmpp-client.iml" filepath="$PROJECT_DIR$/.idea/modules/rxmpp-client.iml" group="rxmpp-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxmpp-client/rxmpp-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rxmpp-client/rxmpp-client_main.iml" group="rxmpp-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxmpp-client/rxmpp-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rxmpp-client/rxmpp-client_test.iml" group="rxmpp-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxmpp-core.iml" filepath="$PROJECT_DIR$/.idea/modules/rxmpp-core.iml" group="rxmpp-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxmpp-core/rxmpp-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rxmpp-core/rxmpp-core_main.iml" group="rxmpp-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxmpp-core/rxmpp-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rxmpp-core/rxmpp-core_test.iml" group="rxmpp-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxmpp-server.iml" filepath="$PROJECT_DIR$/.idea/modules/rxmpp-server.iml" group="rxmpp-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxmpp-server/rxmpp-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rxmpp-server/rxmpp-server_main.iml" group="rxmpp-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rxmpp-server/rxmpp-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rxmpp-server/rxmpp-server_test.iml" group="rxmpp-server" />
     </modules>
   </component>
 </project>
