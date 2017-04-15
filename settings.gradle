@@ -1,0 +1,4 @@
+include 'rxmpp-core'
+include 'rxmpp-server'
+include 'rxmpp-client'
+

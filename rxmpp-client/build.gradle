@@ -1,0 +1,11 @@
+version 'unspecified'
+
+apply plugin: 'java'
+apply plugin: 'idea'
+
+sourceCompatibility = 1.8
+
+dependencies {
+    compile ':rxmpp-core'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
